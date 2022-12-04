@@ -28,6 +28,21 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra":{
+      "firebase": {
+        "apiKey": "AIzaSyDFM5-3HC5JeT4gHvJczR_FbAXpQyie49Y",
+        "authDomain": "shop-review-3afdc.firebaseapp.com",
+        "projectId": "shop-review-3afdc",
+        "storageBucket": "shop-review-3afdc.appspot.com",
+        "messagingSenderId": "598086407106",
+        "appId": "1:598086407106:web:3f8676562020d49f25bc5b",
+        "measurementId": "G-XXL7S0BWR3"
+      },
+      "algolia": {
+        "appId":"OWZJE8R5CH",
+        "searchApiKey":"78974682523d5e0db757772f2584b222"
+      }
     }
   }
 }
